@@ -1,0 +1,15 @@
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\BaseAlgorithm\Practice3.6HW\obj\Debug\net6.0\Practice3.6HW.csproj.AssemblyReference.cache
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\BaseAlgorithm\Practice3.6HW\obj\Debug\net6.0\Practice3.6HW.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\BaseAlgorithm\Practice3.6HW\obj\Debug\net6.0\Practice3.6HW.AssemblyInfoInputs.cache
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\BaseAlgorithm\Practice3.6HW\obj\Debug\net6.0\Practice3.6HW.AssemblyInfo.cs
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\BaseAlgorithm\Practice3.6HW\obj\Debug\net6.0\Practice3.6HW.csproj.CoreCompileInputs.cache
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\BaseAlgorithm\Practice3.6HW\bin\Debug\net6.0\Practice3.6HW.exe
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\BaseAlgorithm\Practice3.6HW\bin\Debug\net6.0\Practice3.6HW.deps.json
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\BaseAlgorithm\Practice3.6HW\bin\Debug\net6.0\Practice3.6HW.runtimeconfig.json
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\BaseAlgorithm\Practice3.6HW\bin\Debug\net6.0\Practice3.6HW.dll
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\BaseAlgorithm\Practice3.6HW\bin\Debug\net6.0\Practice3.6HW.pdb
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\BaseAlgorithm\Practice3.6HW\obj\Debug\net6.0\Practice3.6HW.dll
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\BaseAlgorithm\Practice3.6HW\obj\Debug\net6.0\refint\Practice3.6HW.dll
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\BaseAlgorithm\Practice3.6HW\obj\Debug\net6.0\Practice3.6HW.pdb
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\BaseAlgorithm\Practice3.6HW\obj\Debug\net6.0\Practice3.6HW.genruntimeconfig.cache
+D:\Учеба\Продакт менеджмент\Знакомство с языками программирования\BaseAlgorithm\Practice3.6HW\obj\Debug\net6.0\ref\Practice3.6HW.dll

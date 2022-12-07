@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Учеба\\Продакт менеджмент\\Знакомство с языками программирования\\BaseAlgorithm\\Practice3.6HW\\Practice3.6HW.csproj": {}
+  },
+  "projects": {
+    "D:\\Учеба\\Продакт менеджмент\\Знакомство с языками программирования\\BaseAlgorithm\\Practice3.6HW\\Practice3.6HW.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Учеба\\Продакт менеджмент\\Знакомство с языками программирования\\BaseAlgorithm\\Practice3.6HW\\Practice3.6HW.csproj",
+        "projectName": "Practice3.6HW",
+        "projectPath": "D:\\Учеба\\Продакт менеджмент\\Знакомство с языками программирования\\BaseAlgorithm\\Practice3.6HW\\Practice3.6HW.csproj",
+        "packagesPath": "C:\\Users\\vitas\\.nuget\\packages\\",
+        "outputPath": "D:\\Учеба\\Продакт менеджмент\\Знакомство с языками программирования\\BaseAlgorithm\\Practice3.6HW\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vitas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
